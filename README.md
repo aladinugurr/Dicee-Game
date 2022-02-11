@@ -1,4 +1,4 @@
 # Dicee-Game
 Dicee Game with javascript
 
-diceegamee-ugurcatal.netlify.app
+http://diceegamee-ugurcatal.netlify.app
